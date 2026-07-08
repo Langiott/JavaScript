@@ -2,7 +2,7 @@
 
 Raccolta di **126 script didattici** in JavaScript moderno (ES2020+), eseguibili con **Node.js**.
 Ogni file è autonomo, commentato in italiano, con `console.log` che mostra l'**output atteso**.
-Il filo conduttore degli esempi è un **gestionale aziendale (ERP Polyuretech)**: dipendenti, timbrature, reparti, turni, report.
+Il filo conduttore degli esempi è un **gestionale aziendale **: dipendenti, timbrature, reparti, turni, report.
 
 ---
 
