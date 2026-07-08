@@ -1,4 +1,4 @@
-# 📚 Corso JavaScript — da zero all'avanzato
+# 📚 Corso JavaScript 
 
 Raccolta di **126 script didattici** in JavaScript moderno (ES2020+), eseguibili con **Node.js**.
 Ogni file è autonomo, commentato in italiano, con `console.log` che mostra l'**output atteso**.
