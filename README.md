@@ -4,8 +4,6 @@ Raccolta di script didattici in JavaScript moderno (ES2020+), eseguibili con **N
 Ogni file è autonomo, commentato in italiano, con `console.log` che mostra l'**output atteso**.
 Il filo conduttore degli esempi è un **gestionale aziendale (ERP)**: dipendenti, timbrature, reparti, report.
 
-> **Come eseguire:** `node NN_nome_file.js`
-> **Test (file 124):** `node --test 124_JS_ADV_Node_Testing.js`
 
 ---
 
